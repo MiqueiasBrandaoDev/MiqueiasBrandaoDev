@@ -4,4 +4,4 @@
 📦 Experiência em logística, tecnologia e jurídico, aplicando metodologias ágeis e desenvolvendo sistemas que eliminam esforço manual e aceleram resultados.
 💡 Atualmente focado em SaaS, RAG e arquiteturas de IA aplicadas ao mundo real, conectando dados e entregando eficiência.
 
-📫 Contato: miqueiasbrandaogyn@gmail.com
+📫 Contato: miqueiasbrandaodev@gmail.com
